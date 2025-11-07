@@ -1,0 +1,18 @@
+{
+"api_version": "1.0",
+"daily_phrase": "¡Lufes Mastereo, tu sintonía perfecta todos los días!",
+"program_name": "El Show de Mañana",
+"streaming_url": "https://www.google.com/search?q=http://stream.lufesmastereo.com:8000/live",
+"carousel_images": [
+{
+"id": 1,
+"url": "https://www.google.com/search?q=https://placehold.co/800x400/3b82f6/ffffff%3Ftext%3DPROMOCION%2BESPECIAL",
+"caption": "Participa por premios cada hora."
+},
+{
+"id": 2,
+"url": "https://www.google.com/search?q=https://placehold.co/800x400/f59e0b/ffffff%3Ftext%3DNUEVO%2BDJ%2BEN%2BLA%2BNOCHE",
+"caption": "Conoce a DJ Fénix, todos los sábados."
+}
+]
+}
