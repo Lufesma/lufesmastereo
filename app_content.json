@@ -1,18 +1,20 @@
 {
-"api_version": "1.0",
-"daily_phrase": "¡Lufes Mastereo, tu sintonía perfecta todos los días!",
-"program_name": "El Show de Mañana",
-"streaming_url": "https://www.google.com/search?q=http://stream.lufesmastereo.com:8000/live",
-"carousel_images": [
-{
-"id": 1,
-"url": "https://www.google.com/search?q=https://placehold.co/800x400/3b82f6/ffffff%3Ftext%3DPROMOCION%2BESPECIAL",
-"caption": "Participa por premios cada hora."
-},
-{
-"id": 2,
-"url": "https://www.google.com/search?q=https://placehold.co/800x400/f59e0b/ffffff%3Ftext%3DNUEVO%2BDJ%2BEN%2BLA%2BNOCHE",
-"caption": "Conoce a DJ Fénix, todos los sábados."
-}
-]
+  "api_version": "1.0",
+  "radio_banner_url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1756139822/placeholder_ftffhn.png",  // <-- NUEVO: URL del banner principal
+  "whatsapp_number": "573023152777",                                                  // <-- NUEVO: Número de WhatsApp sin '+'
+  "daily_phrase": "¡Lufes Mastereo, tu sintonía perfecta todos los días!",
+  "program_name": "El Show de Mañana",
+  "streaming_url": "http://stream.lufesmastereo.com:8000/live", // Eliminamos el prefijo de Google Search
+  "carousel_images": [
+    {
+      "id": 1,
+      "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933169/ad_2_i6icoi.png",
+      "caption": "Participa por premios cada hora."
+    },
+    {
+      "id": 2,
+      "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933168/ad_1_jex1is.png",
+      "caption": "Conoce a DJ Fénix, todos los sábados."
+    }
+  ]
 }
