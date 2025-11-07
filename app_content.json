@@ -1,10 +1,10 @@
 {
   "api_version": "1.0",
-  "radio_banner_url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1756139822/placeholder_ftffhn.png",  // <-- NUEVO: URL del banner principal
-  "whatsapp_number": "573023152777",                                                  // <-- NUEVO: Número de WhatsApp sin '+'
+  "radio_banner_url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1756139822/placeholder_ftffhn.png",
+  "whatsapp_number": "573023152777",
   "daily_phrase": "¡Lufes Mastereo, tu sintonía perfecta todos los días!",
   "program_name": "El Show de Mañana",
-  "streaming_url": "http://stream.lufesmastereo.com:8000/live", // Eliminamos el prefijo de Google Search
+  "streaming_url": "http://stream.lufesmastereo.com:8000/live",
   "carousel_images": [
     {
       "id": 1,
