@@ -2,13 +2,13 @@
   "api_version": "1.0",
   "radio_banner_url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1756139822/placeholder_ftffhn.png",
   "whatsapp_number": "573023152777",
-  "daily_phrase": "¡día a día!",
+  "daily_phrase": "¡día a día. más 1!",
   "program_name": "Domingo",
   "streaming_url": "https://stream-179.zeno.fm/nwch9v9ya0hvv?zt",
   "carousel_images": [
     {
       "id": 1,
-      "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933169/ad_2_i6icoi.png",
+      "imageUrl": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933169/ad_2_i6icoi.png",
       "linkUrl": "https://www.facebook.com/piipe.salcedo.7"
     },
     {
