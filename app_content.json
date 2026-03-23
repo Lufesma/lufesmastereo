@@ -2,24 +2,27 @@
   "api_version": "1.0",
   "radio_banner_url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1756139822/placeholder_ftffhn.png",
   "whatsapp_number": "573023152777",
-  "daily_phrase": "¡día a día!",
+  "daily_phrase": "¡día a día, 7 días!",
   "program_name": "Domingo",
   "streaming_url": "https://stream-179.zeno.fm/nwch9v9ya0hvv?zt",
   "carousel_images": [
     {
       "id": 1,
       "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933169/ad_2_i6icoi.png",
-       "caption": "Conoce a DJ Fénix, todos los sábados."
+       "caption": "Conoce a DJ Fénix, todos los sábados.",
+      "link": "https://wa.me/573023152777"
     },
     {
       "id": 2,
       "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933168/ad_1_jex1is.png",
-       "caption": "Conoce a DJ Fénix, todos los sábados."
+       "caption": "Conoce a DJ Fénix, todos los sábados.",
+      "link": "https://wa.me/573023152777"
     },
     {
       "id": 3,
       "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754932454/cld-sample-2.jpg",
-       "caption": "Conoce a DJ Fénix, todos los sábados."
+       "caption": "Conoce a DJ Fénix, todos los sábados.",
+      "link": "https://wa.me/573023152777"
     }
   ]
 }
