@@ -8,18 +8,18 @@
   "carousel_images": [
     {
       "id": 1,
-      "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933169/ad_2_i6icoi.png",
-      "caption": "Conoce a DJ Fénix, todos los sábados."
+      "imageUrl": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933169/ad_2_i6icoi.png",
+      "linkUrl": "https://www.facebook.com/piipe.salcedo.7"
     },
     {
       "id": 2,
-      "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933168/ad_1_jex1is.png",
-      "caption": "Conoce a DJ Fénix, todos los sábados."
+      "imageUrl": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933168/ad_1_jex1is.png",
+      "linkUrl": "https://wa.me/573023152777"
     },
     {
       "id": 3,
-      "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754932454/cld-sample-2.jpg",
-      "caption": "Conoce a DJ Fénix, todos los sábados."
+      "imageUrl": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754932454/cld-sample-2.jpg",
+      "linkUrl": ""
     }
   ]
 }
