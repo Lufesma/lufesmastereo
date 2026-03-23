@@ -8,7 +8,7 @@
   "carousel_images": [
     {
       "id": 1,
-      "imageUrl": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933169/ad_2_i6icoi.png",
+      "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1754933169/ad_2_i6icoi.png",
       "link": "https://www.facebook.com/piipe.salcedo.7"
     },
     {
