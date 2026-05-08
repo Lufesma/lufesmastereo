@@ -5,5 +5,11 @@
   "daily_phrase": "Un viaje de mil millas comienza con un paso",
   "program_name": "En Vivo",
   "streaming_url": "https://stream-179.zeno.fm/nwch9v9ya0hvv?zt",
-  "carousel_images": []
+  "carousel_images": [
+     {
+      "id": 3,
+      "url": "https://res.cloudinary.com/dtauf4flo/image/upload/v1778208889/cld-sample-2.jpg",
+       "caption": "Conoce a DJ Fénix, todos los sábados."
+    }
+  ]
 }
